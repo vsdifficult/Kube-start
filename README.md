@@ -43,8 +43,8 @@ If you used Ingress, configure DNS to point to your Ingress controller's IP addr
 ## Credentials
 
 Default login credentials:
-- Email: admin@example.com
-- Password: StrongPassword123
+- Email: admin
+- Password: qwerty
 
 **Note**: It is recommended to change these default credentials for production use.
 
